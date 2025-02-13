@@ -23,7 +23,8 @@
         "tuple": "cpp",
         "array": "cpp",
         "stack": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "compare": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
