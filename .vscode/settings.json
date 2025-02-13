@@ -24,7 +24,8 @@
         "array": "cpp",
         "stack": "cpp",
         "string": "cpp",
-        "compare": "cpp"
+        "compare": "cpp",
+        "limits": "cpp"
     },
     "C_Cpp.errorSquiggles": "enabled"
 }
